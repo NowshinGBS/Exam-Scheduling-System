@@ -1,2 +1,2 @@
 # Exam-Scheduling-System
-In this project the used technologies are PHP, CSS3, HTML5, Bootstrap 4, MySQL, JavaScript.
+In this project the used technologies are PHP, CSS3, HTML5, Bootstrap 4, MySQL, JavaScript. This project is about examination time table where you can have add new student by registration. Each student have their own id, name, picture, address, course ID, course title, exam date etc. Each course has a particular exam day which cannot manipulated by end user. If some student registered and add some course he/she can see their student information, course information along with course examination date in dashboard. This system was done by me for a final project of a web development training in 2018. 
